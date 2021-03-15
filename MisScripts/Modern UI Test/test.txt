@@ -1,0 +1,4 @@
+------NSIS------
+Version: 1.0
+Fecha: 7/03/21
+Nombre: Instalador3.exe
